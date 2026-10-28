@@ -1,0 +1,6 @@
+Fractions
+A fraction shows part of a whole. In 3/4, the top number (3) is the numerator: how many parts we have. The bottom number (4) is the denominator: how many equal parts the whole is cut into.
+
+Adding fractions with the same denominator: add the numerators and keep the denominator. Example: 1/5 + 2/5 = 3/5.
+
+Adding fractions with different denominators: first make the denominators the same. Example: 1/2 + 1/3. The common denominator is 6. So 1/2 = 3/6 and 1/3 = 2/6. Then 3/6 + 2/6 = 5/6.
